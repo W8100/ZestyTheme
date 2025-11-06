@@ -67,7 +67,7 @@
     opacity: 1;
   }
   .layout-desktop .detailPageWrapperContainer {
-    margin-top: -89vh;
+    margin-top: -80vh;
     /* inicial: 73 */
   }
 
@@ -91,7 +91,7 @@
 
   .layout-desktop .detailPagePrimaryContent {
     width: 45%;
-	display: inherit;detailRibbon
+	display: inherit;
   }
 
   .layout-desktop .detailPagePrimaryContainer {
